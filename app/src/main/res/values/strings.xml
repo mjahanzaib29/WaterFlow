@@ -13,4 +13,6 @@
     <string name="namerror">Enter a name</string>
     <string name="emailerror">Enter a valid email</string>
     <string name="passerror">Enter 6 character password</string>
+    <string name="btnon">On</string>
+    <string name="btnoff">Off</string>
 </resources>
